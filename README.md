@@ -1,5 +1,7 @@
 POO4
 
+Curso C# Alura - Orientação a objeto; Professor: Guilherme Matheus Costa; Fiz todos os códigos adiconando comentários em cada item;
+
 Primeiros passos com exceções:
 Introdução;
 Conhecendo exceções;
